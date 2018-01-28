@@ -1,0 +1,6 @@
+admin perusahaan
+1. edit password belum berhasil
+
+admin toko
+1. metode connect belum generate otomatis link kirim dan terima
+2. input barang belum berhasil duplicat entry key
