@@ -1,0 +1,20 @@
+sidebar kiri
+	1. users => frontliner
+		frontliner => register frontliner
+	2. stock => stok
+halaman utama :
+	1. tambah icon seperti di contoh
+
+halaman stok belum ada
+halaman report hadiah belum ada
+halaman stok masuk
+	1. filter tanggal belum ada
+halaman tambah stok masuk
+	1. nomor input 8 digit
+	* belum bisa input barang
+frontliner
+	1. kolom status belum ada
+profil permainan
+	1. ada daftar barang yang masuk padahal belum input daftar barang
+		ex: baju tidur korea
+			pohon bagus
