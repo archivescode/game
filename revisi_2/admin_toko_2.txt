@@ -1,0 +1,5 @@
+* belum bisa input barang
+halaman utama :
+	1. icon admin toko di ganti keterangan nya buka admin toko
+pop up frontliner
+	1. status default non aktif

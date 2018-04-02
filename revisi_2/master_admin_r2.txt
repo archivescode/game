@@ -1,0 +1,3 @@
+pop up register admin perusahaan
+
+	1. default status default non aktif

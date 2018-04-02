@@ -1,0 +1,2 @@
+1. keterangan login belum sesuai
+	=> perusahaan status non aktif keterangan user / password salah

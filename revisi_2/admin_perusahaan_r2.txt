@@ -1,0 +1,9 @@
+pop up tambah produk
+	1. belum bisa upload produk (lihat gambar gagal upload.png)
+pop up tambah admin toko
+	1. status default non-aktif
+	2. link kirim dan terima belum generate otomatis
+	3. metode data default disconnect
+	4. input text link kirim dan terima di disable
+	5. ketika habis input data ada jeda page blank putih
+
