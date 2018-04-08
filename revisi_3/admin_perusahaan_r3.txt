@@ -1,0 +1,2 @@
+1. masih gagal upload produk keterangan lihat gambar
+2. link kirim dan terima berisi kode toko + key generate otomatis
