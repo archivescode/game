@@ -1,0 +1,1 @@
+1. masih bisa hapus admin toko padahal sudah input stok dan input frontliner

@@ -1,0 +1,10 @@
+1. profile permainan tiap toko berbeda2
+	1. misal :
+			perusahaan 1 punya 2 toko (toko A dan toko B).
+			isi profile rollate toko A harusnya berbeda dengan isi profile rollate toko B
+			karena stok masing2 toko berbeda2
+	2. master produk di perusahaan 1 ikut masuk ke perusahaan lain nya
+2. input stok masuk
+	1. setelah berhasil input stok masuk nomor input slanjutnya jadi kosong tidak otomatis keluar
+	2. belum ada tombol batal misal gak jadi input data stok masuk
+	3. belum ada grand total di bawah tabel input stok masuk sehingga kita tidak tahu berapa grand total yag sudah kita inputkan sudah sama dengan nota atau belum
