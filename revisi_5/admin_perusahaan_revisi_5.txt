@@ -1,0 +1,9 @@
+tabel register admin perusahaan
+	1. masih bisa hapus toko padahal sudah register admin toko dan menambahkan produk
+tabel master produk
+	1. link / gambar belum tampil
+	2. masih bisa edit dan hapus produk padahal sudah ada transaksi masuk dan keluar
+	3. belum generate kode zonk
+pop up tambah produk
+	1. kasih gambar default / sembunyikan preview sebelum upload gambar
+	2. error lagi ketika menambahkan produk baru

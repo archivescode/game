@@ -1,0 +1,12 @@
+halaman depan
+	keterangan user yang login adalah nama user nya bukan kode nya
+input nota
+	1. tanggal otomatis tidak bisa di edit
+
+halaman permainan
+	1. gambar belum keluar
+	2. tombol kembeli ke menu permaianan menuju ke halaman pilih game bukan input nota
+	3. setelah input password seharus nya langsung logout bukan kembali ke menu input nota
+	4. hapus tombol batal di popup dan ganti tombol simpan dengan ok
+	5. hapus tombol x di popup supaya tidak bisa ditutup kecuali setelah input password
+hadiah zonk belum ada

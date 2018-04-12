@@ -1,0 +1,3 @@
+tabel register admin perusahaan
+	1. masih bisa hapus admin perusahaan padahal sudah register admin toko dan menambahkan master produk
+	2. tambah nomor urut di tabel nya

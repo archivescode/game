@@ -1,0 +1,58 @@
+profile permainan
+
+permainan rollate dihalaman setting permaian
+	1. isi tabel dibuat fix 36 baris secara default diisi zonk kemudian tombol add item diatas di hapus
+	2. secara default isi tabel sebelum di edit adalah zonk
+	3. tambah tombol zonk di bawah tabel 
+		fungsi untuk merubah semua isi tabel dengan zonk
+	4. menambah grand total dibawah tabel. (jumlah dari produk yang status nya open).
+	5. ketika dipilih zonk sebelah tombol edit hasil nya bukan zonk.
+	6. belum ada popup konfirmasi apakah anda ingin menganti no:01 kode produk 0001 dengan produk zonk
+	7. belum ada keterangan isi produk sebelum nya di popup edit
+
+
+
+input stok masuk
+	1. ada jeda setelah simpan stok masuk
+	2. belum ada popup ketika hapus produk
+
+tabel stok masuk
+	1. tombol download adalah export semua isi tabel beserta detail yang ada di dalam nya
+	2. masih ada tombol hapus padahal masih ada data didalam detail stok masuk
+	3. belum ada keterangan di hapus stok masuk. data mana yang di hapus
+
+tabel detail stok masuk
+	1. atasnya dikasih tanggal dan nomor input
+	2. popup hapus belum ada keterangan data yang di hapus
+	3. popup edit ditambah no urut, kode, total
+
+
+
+input minta stok
+	1. nomor input nota 8 digit urut di semua toko pada perusahaan tersebut
+		misal toko A minta stok pada toko B dengan nomor input 00000001
+		maka ketika toko C minta stok ke toko A nomor urut nya menjadi 0000002 bukan 0000001
+	2. belum ada tombol batal
+	3. hapus tombol edit
+	4. setelah simpan tidak otomatis kembali ke tabel minta stok / mengisi dengan nomor yang baru
+	5. belum ada popup hapus dan keterangan nya
+
+tabel minta stok
+	1. tombol download => mendownload semua data yang ada di dalam nya beserta detail yang ada di dalam nya
+
+input buang stok
+	1. nomor input 8 digit
+	2. belum ada tombol batal
+	3. hapus tombol edit
+	3. belum ada popup hapus dan keterangan nya
+
+tabel buang stok
+	1. tombol download => export semua data yang ada di dalam nya beserta detail nya
+
+detail buahng stok
+	1. belum ada tombol edit dan hapus beserta fungsi nya
+
+
+tabel register frontliner
+	1. popup keterangan hapus belum ada nama frontliner
+	
