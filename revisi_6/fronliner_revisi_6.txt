@@ -1,0 +1,9 @@
+halaman utama
+	nama fronliner yang login perusahaan1
+	menu stok di ganti pencapaian
+halaman permainan
+	1. gambar belum muncul
+	2. setelah input password belum langsung logout
+	3. permainan kadang muncul kadang tidak lihat video (https://youtu.be/ZEa9OPnls6A)
+hadiah zonk belum ada
+

@@ -1,0 +1,42 @@
+- belum ada menu report hadiah
+
+- setting profile rolate
+	1. isi default belum zonk
+	2. duplikat kode barang 00001 pirus persia dan barang lain
+	3. zonk paling bawah di ganti All zonk seperti halaman 53
+	4. ketika produk zonk maka tombol zonk di tabel di disable supaya tidak bisa di klik
+	5. ketika mau menganti produk dengan produk yang sudah ada terjadi error bad request
+		misal saya mau menganti produk produk A di baris nomor 1 dengan produk B.(produk B sudah ada di tabel.)
+		padahal di rollate itu ada 1 produk yang muncul beberapa kali di rollate nya
+	6. pop up edit belum ada baris, stok, status lihat halaman 54 (di buat 1 baris saja biar enak di lihat).
+	7. hapus tombol close dan full screen di semua tabel (lihat gambar hapus_tombol_close.png).
+	8. belum ada pop up apakah anda yakin ingin menggati no.01 dll saat menganti produk
+
+
+- tabel stok masuk
+	1. keterangan tabel salah (lihat gambar keterangan tabel salah.png)
+	2. filter tanggal di tampilkan saja seperti contoh. halaman 28
+- input stok masuk
+	1. harga barang tidak boleh kosong
+- detail stok masuk
+	1. pop up edit belum ada no urut dan total
+	2. pop up edit ketika simpan masuk ke not found
+	3. pop up hapus ketika ok error bad request
+
+- tabel minta stok
+	1. filter tanggal di tampilkan saja seperti halaman 37
+- input minta stok
+	1. input yang kedua error nomor input tetep 00000001
+	2. nomor input belum urut di semua toko
+	3. bisa minta stok dari toko sendiri lihat gambar (minta stok.png)
+
+- tabel buang stok
+	1. filter tanggal di tampilkan saja seperti halaman 41
+	2. belum ada tombol hapus
+- input buang stok
+	input yang kedua error nomor input tidak ganti
+- detail buang stok
+	1. belum ada tombol hapus dan edit beserta fungsi nya
+
+- history stok
+	form filter tanggal nya di tampilkan seperti halaman 34. sehingga user tidak binggung

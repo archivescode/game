@@ -1,0 +1,5 @@
+- input master produk
+	1. upload produk error lagi gak bisa upload produk baru
+- tabel master produk
+	1. gambar / link produk belum muncul
+	2. belum generate kode produk zonk
