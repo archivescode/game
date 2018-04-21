@@ -1,0 +1,24 @@
+profil permainan
+	1. masih error ketika ada 2 produk yang sama dimasukan
+	2. tombol zonk paling bawah di ganti All Zonk
+	3. hapus tombol close dan full screen di semua tabel (lihat gambar hapus_tombol_close.png pada revisi_6).
+	4. pop up edit belum ada baris, stok, status lihat halaman 54 (di buat 1 baris saja biar enak di lihat).
+
+input minta stok
+	1. duplikat nomor input tidak otomatis dan tidak ada keterangan error bahwa ada duplikat nomor input
+	2. nomor input belum otomatis untuk semua toko
+
+tabel stok masuk
+	1. filter tanggal di tampilkan saja seperti contoh. halaman 28
+tabel histori stok
+	1. filter tanggal di tampilkan saja
+	2. stok buang salah menjadikan sisa stok -9
+tabel buang stok
+	1. filter tanggal di tampilkan saja
+tabel sisa stok
+	1. sisa stok belum ada data nya masih kosong
+
+
+input stok masuk
+	1. harga dan total tidak boleh kosong
+menu report hadiah belum ada
